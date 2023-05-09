@@ -264,6 +264,19 @@ img {
 }
 
 /*--MODAL WINDOW--*/
+.hero-modal-text {
+	margin-top: 24px;
+	font-size: 16px;
+	font-family: "Roboto";
+	font-weight: 500;
+	font-style: normal;
+	line-height: 24px;
+	letter-spacing: .02em;
+	text-decoration: none;
+	text-transform: none;
+	color: #2e2f42;
+}
+
 .backdrop {
 	position: fixed;
 	top: 0;
@@ -342,7 +355,6 @@ img {
 	margin-bottom: 8px;
 	font-weight: 400;
 	font-size: 12px;
-	line-height: 1.7;
 	letter-spacing: 0.04em;
 	color: #8E8F99;
 }
@@ -412,7 +424,6 @@ img {
 }
 
 .checkbox {
-	position: absolute;
 	position: absolute;
 	width: 1px;
 	height: 1px;
